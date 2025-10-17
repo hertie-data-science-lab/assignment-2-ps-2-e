@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+keras
+tensorflow
+notebook
+ipykernel
+torchvision
+torch
+tqdm
